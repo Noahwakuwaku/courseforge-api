@@ -163,5 +163,6 @@ python -m compileall -q .
 
 ## 许可证
 
-项目暂未选择开源许可证。公开发布前建议添加 `LICENSE`；未添加许可证并不代表其他人可以自由复制、修改或分发代码。
+
+本项目采用 MIT License，详情请参阅 [LICENSE](LICENSE)。
 
