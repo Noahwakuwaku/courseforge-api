@@ -1,0 +1,34 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+
+# Tests, coverage, and tooling caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.ipynb_checkpoints/
+*.ipynb
+
+# Generated or local data
+mongo-export/
+sitemap.xml
+sitemap.xml.bak
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
