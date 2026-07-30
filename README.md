@@ -163,5 +163,5 @@ python -m compileall -q .
 
 ## License
 
-No open-source license has been selected yet. Add a `LICENSE` file before a public release; without one, the code is not automatically open for reuse.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
