@@ -1,5 +1,6 @@
 # CourseForge API
-
+- Frontend: https://github.com/Noahwakuwaku/courseforge-frontend
+- Backend: https://github.com/Noahwakuwaku/courseforge-api
 [简体中文](README.zh-CN.md) | English
 
 CourseForge is an AI-assisted curriculum and learning-material generator. Given a subject name, the backend builds a curriculum skeleton, evaluates possible subcategories, generates reviewed lecture outlines and full materials, and creates multiple-choice exams.
